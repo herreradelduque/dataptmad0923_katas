@@ -35,6 +35,12 @@ $ git commit -m "kata-finished"
 $ git push origin <branch-name>
 ```
 
+Finally open a Pull Request:
+
+```
+your branch -> main
+```
+
 The instructional team will review your branch and will merge the winner one.
 
 **To work on the subsequent assignments**, create a new branch for every new assignment.
