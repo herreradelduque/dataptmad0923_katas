@@ -1,6 +1,3 @@
-# dataptmad0923_katas
-Data Analytics Part-Time Madrid September 2023
-
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
