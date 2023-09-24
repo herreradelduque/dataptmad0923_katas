@@ -5,9 +5,9 @@
 
 ## Getting Started
 
-0. _Onlye the first time:_ Clone this repository into your `ironhack/katas` folder:
+0. Only the first time: Clone this repository into your `ironhack/katas` folder:
 
-1. _Before starting a new assignment_: 
+1. Before starting a new assignment: 
 
 ````
 git pull origin main
