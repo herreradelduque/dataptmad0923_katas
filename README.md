@@ -1,7 +1,7 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Ironhack Data Analytics Labs
+# Ironhack Data Analytics Katas
 
 ## Getting Started
 
